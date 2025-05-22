@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-  cout << "Saya siap";
+  cout << "Poliban juara";
+  cout << "Indonesia Hebat";
   return 0;
 }
