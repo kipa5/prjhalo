@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-  cout << "Poliban juara";
-  cout << "Indonesia Hebat";
-  return 0;
+    string nama[5]; // array untuk 5 nama
+    return 0;
 }
